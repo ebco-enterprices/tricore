@@ -1,1 +1,1 @@
-# tricore
+# tricore..
